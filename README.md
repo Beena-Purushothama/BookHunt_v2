@@ -50,7 +50,7 @@ Key Benefits include:
 * Embedded Server : like Tomcat, Jetty etc. to develop and test our web applications very easily.
 
 ## Book Search Home Page View
-![](BookSearchHome.png)
+![](BookSearchHomePage.png)
 
 
 
